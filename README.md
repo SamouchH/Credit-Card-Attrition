@@ -24,6 +24,9 @@ The ensemble method, specifically the Voting Classifier, yielded the highest acc
 ## Conclusions and Recommendations
 The analysis indicates that transaction behavior and revolving balance are critical in predicting customer churn. The bank should focus on these areas to develop targeted retention strategies.
 
+## Further Reading
+For more insights and a detailed walkthrough of this project, you can read my article on Medium: https://medium.com/@samoucheharoune/credit-card-attrition-0e02d61215ac
+
 ## Next Steps
 Further work could explore:
 - More advanced feature engineering techniques
