@@ -32,11 +32,11 @@ Further work could explore:
 
 ## Notebook
 The project is available as a notebook, which can be run in Google Colab:
-[https://colab.research.google.com/github/SamouchH/Credit-Card-Attrition/blob/main/Credit_Card_Attrition.ipynb]
+https://colab.research.google.com/github/SamouchH/Credit-Card-Attrition/blob/main/Credit_Card_Attrition.ipynb
 
 ## Data
 The dataset used for this analysis can be found here:
-[https://github.com/SamouchH/Credit-Card-Attrition/blob/main/Bank_Churn.csv]
+https://github.com/SamouchH/Credit-Card-Attrition/blob/main/Bank_Churn.csv
 
 ## Author
 - Haroune Samouche
